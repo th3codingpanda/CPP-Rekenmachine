@@ -3,11 +3,13 @@
 
 #include <iostream>
 #include "Rekenmachine.h"
+#include "Rekenmachine2.h"
 
 
 int main()
 {
-	Rekenmachine rekenmachine;
+	Rekenmachine2 rekenmachine;
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

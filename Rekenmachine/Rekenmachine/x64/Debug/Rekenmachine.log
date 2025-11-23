@@ -1,6 +1,6 @@
-﻿  Rekenmachine.cpp
-C:\Users\Work\Documents\GitHub\CPP-Rekenmachine\Rekenmachine\Rekenmachine\Rekenmachine.cpp(59,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Work\Documents\GitHub\CPP-Rekenmachine\Rekenmachine\Rekenmachine\Rekenmachine.cpp(59,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-C:\Users\Work\Documents\GitHub\CPP-Rekenmachine\Rekenmachine\Rekenmachine\Rekenmachine.cpp(93,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-C:\Users\Work\Documents\GitHub\CPP-Rekenmachine\Rekenmachine\Rekenmachine\Rekenmachine.cpp(114,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+﻿  Rekenmachine2.cpp
+C:\Users\Work\Documents\GitHub\CPP-Rekenmachine\Rekenmachine\Rekenmachine\Rekenmachine2.cpp(32,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Work\Documents\GitHub\CPP-Rekenmachine\Rekenmachine\Rekenmachine\Rekenmachine2.cpp(33,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Work\Documents\GitHub\CPP-Rekenmachine\Rekenmachine\Rekenmachine\Rekenmachine2.cpp(34,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Work\Documents\GitHub\CPP-Rekenmachine\Rekenmachine\Rekenmachine\Rekenmachine2.cpp(34,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
   Rekenmachine.vcxproj -> C:\Users\Work\Documents\GitHub\CPP-Rekenmachine\Rekenmachine\x64\Debug\Rekenmachine.exe
